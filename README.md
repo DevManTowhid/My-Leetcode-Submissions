@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
