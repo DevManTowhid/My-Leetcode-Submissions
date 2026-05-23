@@ -58,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1791-find-center-of-star-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
