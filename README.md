@@ -29,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0178-rank-scores) |
+| [0197-rising-temperature](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
