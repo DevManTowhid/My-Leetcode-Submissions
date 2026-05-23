@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
