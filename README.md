@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
