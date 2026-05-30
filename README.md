@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Sliding Window
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Backtracking
 |  |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
