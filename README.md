@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
