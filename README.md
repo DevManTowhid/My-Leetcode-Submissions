@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Sliding Window
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 ## Stack
 |  |
