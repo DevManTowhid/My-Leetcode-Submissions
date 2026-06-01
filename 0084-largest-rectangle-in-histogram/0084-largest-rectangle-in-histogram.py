@@ -1,24 +1,34 @@
 class Solution:
-    def largestRectangleArea(self, heights: List[int]) -> int:
-        max_area = 0
-        stack = [] # We will store tuples of (start_index, height)
+    def largestRectangleArea(self, heights: list[int]) -> int:
+        n = len(heights)
+        left = [0] * n
+        right = [0] * n
+        s = []
         
-        for i, h in enumerate(heights):
-            start = i
-            # TRIGGER: The current bar is shorter than the top of the stack.
-            # This means the taller bars in the stack cannot expand past 'i'.
-            while stack and stack[-1][1] > h:
-                index, height = stack.pop()
-                # Calculate area for the popped bar
-                max_area = max(max_area, height * (i - index))
-                # The current shorter bar can be pulled backward 
-                # to replace the space of the popped taller bar
-                start = index
-                
-            stack.append((start, h))
-            print(start, h)
-        # Clean up any remaining bars that made it to the end of the array
-        for i, h in stack:
-            max_area = max(max_area, h * (len(heights) - i))
+        # Right smaller value
+        for i in range(n - 1, -1, -1):
+            while len(s) > 0 and heights[s[-1]] >= heights[i]:
+                s.pop()
             
-        return max_area
+            right[i] = n if len(s) == 0 else s[-1]
+            s.append(i)
+
+        # Clear the stack for the next pass
+        s.clear()
+
+        # Left smaller value 
+        for i in range(n):
+            while len(s) > 0 and heights[s[-1]] >= heights[i]:
+                s.pop()
+            
+            left[i] = -1 if len(s) == 0 else s[-1]
+            s.append(i)
+            
+        ans = 0
+
+        # Calculate maximum area
+        for i in range(n):
+            area = heights[i] * (right[i] - left[i] - 1)
+            ans = max(ans, area)
+            
+        return ans
