@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
