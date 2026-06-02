@@ -5,30 +5,25 @@
 class Solution {
 public:
     int minDistance(std::string word1, std::string word2) {
-        int m = word1.size();
         int n = word2.size();
+        std::vector<int> dp(n + 1);
         
-        // dp[i][j] will be the edit distance between word1[0..i-1] and word2[0..j-1]
-        std::vector<std::vector<int>> dp(m + 1, std::vector<int>(n + 1));
+        // Initialize base case for the first row
+        for (int j = 0; j <= n; ++j) dp[j] = j;
         
-        // Base cases
-        for (int i = 0; i <= m; ++i) dp[i][0] = i; // Delete all
-        for (int j = 0; j <= n; ++j) dp[0][j] = j; // Insert all
-        
-        // Fill the DP table
-        for (int i = 1; i <= m; ++i) {
+        for (char c1 : word1) {
+            int prev = dp[0]; // Stores the "diagonal" value
+            dp[0]++;          // Update first column
             for (int j = 1; j <= n; ++j) {
-                if (word1[i - 1] == word2[j - 1]) {
-                    dp[i][j] = dp[i - 1][j - 1];
+                int temp = dp[j]; // Temp store current value for next iteration's "diagonal"
+                if (c1 == word2[j - 1]) {
+                    dp[j] = prev;
                 } else {
-                    dp[i][j] = 1 + std::min({dp[i - 1][j],    // Delete
-                                             dp[i][j - 1],    // Insert
-                                             dp[i - 1][j - 1] // Replace
-                                            });
+                    dp[j] = 1 + std::min({dp[j], dp[j - 1], prev});
                 }
+                prev = temp;
             }
         }
-        
-        return dp[m][n];
+        return dp[n];
     }
 };
