@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
