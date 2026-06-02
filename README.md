@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
 |  |
