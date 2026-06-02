@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Sliding Window
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
