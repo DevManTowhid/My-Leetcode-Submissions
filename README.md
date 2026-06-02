@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 ## Backtracking
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
