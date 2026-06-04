@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
