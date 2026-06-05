@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0479-largest-palindrome-product](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [0633-sum-of-square-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
