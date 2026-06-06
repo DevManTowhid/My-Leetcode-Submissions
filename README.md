@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -175,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
