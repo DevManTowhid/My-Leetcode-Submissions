@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0479-largest-palindrome-product](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
