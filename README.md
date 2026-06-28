@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0041-first-missing-positive) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
