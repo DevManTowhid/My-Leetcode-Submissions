@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [0633-sum-of-square-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [1175-prime-arrangements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1175-prime-arrangements) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
 |  |
