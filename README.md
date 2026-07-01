@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
+| [0551-student-attendance-record-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
