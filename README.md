@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0641-design-circular-deque) |
@@ -288,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
