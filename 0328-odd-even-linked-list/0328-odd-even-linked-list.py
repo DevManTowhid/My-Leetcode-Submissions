@@ -3,22 +3,28 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        first = []
+        dummy1 = ListNode(0)
+        dummy2 = ListNode(0)
+        p1 = dummy1
+        p2 = dummy2
         temp = head
+        i = 0
+
         while temp:
-            first.append(temp.val)
-            temp = temp.next
-        
-        last = [first[p] for p in range(len(first)) if p % 2 == 0 ] + [first[p] for p in range(len(first)) if p % 2 == 1]
-        
-      
+            if i == 0 or i % 2 == 0:
+                p1.next = temp
+                p1 = p1.next
+            else:
+                p2.next = temp
+                p2 = p2.next
 
-        root = ListNode(last[0]) if last else None
-        temp = root
-        for _ in range(1, len(last)):
-            temp.next = ListNode(last[_])
             temp = temp.next
+            i += 1
 
-        return root
+        p1.next = dummy2.next
+        p2.next = None
+
+        return dummy1.next
