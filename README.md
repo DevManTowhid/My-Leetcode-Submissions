@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0622-design-circular-queue) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 ## Queue
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
