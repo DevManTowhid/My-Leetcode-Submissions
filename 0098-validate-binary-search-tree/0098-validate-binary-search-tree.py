@@ -6,18 +6,19 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def BSTValid(root):
-            
+        # in order must be sorted/ ig
+        def inorder(root):
             if not root:
-                return [True, float('inf'), float('-inf')]
+                return
 
+            inorder(root.left)
+            self.ans.append(root.val)
+            inorder(root.right)
 
-            leftRes = BSTValid(root.left)
-            rightRes = BSTValid(root.right)
-
-            if leftRes[0] and rightRes[0] and root.val < rightRes[1] and root.val > leftRes[2]:
-                return [True, min(root.val, rightRes[1], leftRes[1] ), max(root.val, rightRes[2], leftRes[2] )]
-            else:
-                return [False, min(root.val, rightRes[1], leftRes[1] ), max(root.val, rightRes[2], leftRes[2] )]
-        
-        return BSTValid(root)[0]
+        self.ans = []
+        inorder(root)
+        # just check bst main rule that ;left < root < right
+        for i in range(1, len(self.ans)):
+            if self.ans[i] <= self.ans[i - 1]:
+                return False
+        return True
