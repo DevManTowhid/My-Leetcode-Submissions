@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 | [0551-student-attendance-record-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
