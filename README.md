@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0120-triangle) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
