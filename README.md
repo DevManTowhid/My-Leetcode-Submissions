@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0120-triangle) |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
@@ -360,11 +364,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -374,9 +380,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
