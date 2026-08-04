@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -341,12 +343,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
