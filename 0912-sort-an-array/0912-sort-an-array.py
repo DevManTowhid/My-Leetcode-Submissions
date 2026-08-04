@@ -45,7 +45,7 @@ class Solution:
         # divide the whole array into halfs
         n = len(nums)
         if n <= 1: return nums
-        if n == 2: return nums[::-1] if nums[0] > nums[1] else nums
+        if n == 2: return [nums[1], nums[0]] if nums[0] > nums[1] else nums
         arrA, arrB = nums[: n // 2], nums[n //2 : ]
         
         arrA = divide_and_conquer(arrA)
