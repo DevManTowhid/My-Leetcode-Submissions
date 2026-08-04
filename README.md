@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1859-sorting-the-sentence) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+| [1859-sorting-the-sentence](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1859-sorting-the-sentence) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Sliding Window
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
