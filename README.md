@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
 | [0551-student-attendance-record-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -365,8 +370,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
