@@ -1,25 +1,19 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        if n == 1:
-            return True
-        results = {}
-        digits = list(str(n))
-
-        digits = [int(p) ** 2 for p in digits]
-        k = sum(digits)
-        if k == 1:
-            return True
-        while k != 1:
-            digits = list(str(k))
-
-            digits = [int(p) ** 2 for p in digits]
-            k = sum(digits)
-            print(k)
-            if k == 1:
+        seen = set()
+        seen.add(n)
+        MAX_TRY = 100000
+        prev = n
+        for i in range(MAX_TRY):
+            if prev == 1:
                 return True
-            if k in results.keys():
+            nxt = 0
+            while prev > 0:
+                nxt += (prev % 10) * (prev % 10)
+                prev = prev // 10
+            if nxt in seen:
                 return False
-            results[k] = True
-        
-
+            seen.add(nxt)
+            prev = nxt
+        return False
         
