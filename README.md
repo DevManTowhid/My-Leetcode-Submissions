@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
+| [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 ## Quickselect
 |  |
 | ------- |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
