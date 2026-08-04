@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
@@ -412,4 +413,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0220-contains-duplicate-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
