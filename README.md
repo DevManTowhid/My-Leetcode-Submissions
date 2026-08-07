@@ -259,11 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0390-elimination-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0641-design-circular-deque) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
