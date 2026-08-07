@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [0633-sum-of-square-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1175-prime-arrangements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1175-prime-arrangements) |
+| [1922-count-good-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0390-elimination-game) |
+| [1922-count-good-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
