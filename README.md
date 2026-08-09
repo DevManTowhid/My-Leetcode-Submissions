@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
