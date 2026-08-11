@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0120-triangle) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Backtracking
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -368,12 +371,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
