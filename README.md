@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1122-relative-sort-array) |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0483-smallest-good-base) |
 | [0633-sum-of-square-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1175-prime-arrangements](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1175-prime-arrangements) |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1922-count-good-numbers](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
@@ -513,4 +515,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DevManTowhid/My-Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
